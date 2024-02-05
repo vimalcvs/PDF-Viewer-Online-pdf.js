@@ -20,5 +20,5 @@ This project is an online PDF viewer that utilizes the pdf.js library to render 
    ```bash
    git clone https://github.com/vimalcvs/PDF-Viewer-Online-pdf.js.git
 
-   ```bash
-   https://xyzdemo.com/pdfviewer/web/viewer.html?file=demo.pdf
+   ```web  
+   https://ignou.technovimal.in/pdfviewer/web/viewer.html?file=demo.pdf
