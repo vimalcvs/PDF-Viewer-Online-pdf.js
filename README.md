@@ -1,6 +1,6 @@
 # PDF Viewer Online with pdf.js
 
-<img src="/img/1.png" width="15%"/> | <img src="/img/2.png" width="15%"/> | <img src="/img/3.png" width="35%"/>
+<img src="/img/1.png" width="13%"/> | <img src="/img/2.png" width="13%"/> | <img src="/img/3.png" width="50%"/>
 
 This project is an online PDF viewer that utilizes the pdf.js library to render PDF documents directly in the browser. It provides a user-friendly interface for viewing and interacting with PDF files without the need for external plugins or software.
 
