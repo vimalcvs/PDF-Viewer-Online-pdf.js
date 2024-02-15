@@ -1,2 +1,0 @@
-# Setzen des MIME-Typs für .mjs Dateien
-AddType application/javascript .mjs
